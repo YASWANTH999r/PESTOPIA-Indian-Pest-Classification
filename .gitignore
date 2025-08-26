@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Models
+models/
+
+# Data
+data/raw/
+data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
